@@ -5,3 +5,5 @@ Omar tiene 32 años y vive en colombia
 Hoy hablaremos de su historia
 
 Mañana nos enfocaremos en su vida laboral.
+
+//valiate un email
