@@ -3,6 +3,8 @@ Esta es la historia de Omar Hernandez
 Omar tiene 32 años y vive en colombia 
 
 HernadezReyOmar contribuye a este proyecto open sourse.
+01 tuve problemas despues de solo poner el comando en la terminal con 
+sola mente git push: pero lo solucione en las opciones que da visualstudiocode
 
 Mañana nos enfocaremos en su vida laboral.
 
