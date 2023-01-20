@@ -5,5 +5,5 @@ Omar tiene 32 años y vive en colombia
 Anita Platzi es una persona que contribuye a este proyecto open sourse
 
 Mañana nos enfocaremos en su vida laboral.
-
+Main 1
 //valiate un email
